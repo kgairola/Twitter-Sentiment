@@ -3,7 +3,7 @@
 """
 Created on Thu Feb  9 15:34:43 2017
 
-@author: n0z
+@author: kgairola
 """
 import tweepy
 import time
