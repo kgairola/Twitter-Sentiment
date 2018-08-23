@@ -41,6 +41,6 @@ myStreamListener = MyStreamListener()
 myStream = tweepy.Stream (auth = api.auth, listener=myStreamListener)
 
 # Step 3: Starting a Stream
-myStream.filter(track=['iphone'], async=True)
+myStream.filter(track=['ebay', 'Amazon'], async=True)
 
 #myStream.disconnect()
